@@ -1,2 +1,2 @@
 # Global-API-Blog
-Projeto GlobalWeb
+Projeto GlobalWeb API Blog
