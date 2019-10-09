@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cauancm\\Documents\\Blog\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj": {}
+    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cauancm\\Documents\\Blog\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj": {
+    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cauancm\\Documents\\Blog\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
         "projectName": "BlogAPI",
-        "projectPath": "C:\\Users\\cauancm\\Documents\\Blog\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
-        "packagesPath": "C:\\Users\\cauancm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cauancm\\Documents\\Blog\\Global-API-Blog\\BlogAPI\\BlogAPI\\obj\\",
+        "projectPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
+        "packagesPath": "C:\\Users\\Larissa Heloisa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\BlogAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cauancm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Larissa Heloisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
