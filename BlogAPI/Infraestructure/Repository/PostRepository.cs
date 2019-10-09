@@ -1,36 +1,50 @@
 ﻿using Application.Repositories;
 using Domain.Entities.Post;
+using Infraestructure.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Infraestructure.Repository
 {
     public class PostRepository : IPostReadOnlyRepository, IPostWriteOnlyRepository
     {
+        private readonly ApplicationContext applicationContext;
+
         public int Add(Post post)
         {
-            throw new NotImplementedException();
+            applicationContext.Posts.Add(post);
+            return applicationContext.SaveChanges();
+
         }
 
         public List<Post> GetAll()
         {
-            throw new NotImplementedException();
+            return applicationContext.Posts.ToList();
         }
 
         public Post GetById(Guid id)
         {
-            throw new NotImplementedException();
+            return applicationContext.Posts.Find(id); 
         }
 
         public int Remove(Post post)
         {
-            throw new NotImplementedException();
+            applicationContext.Posts.Remove(post);
+            return applicationContext.SaveChanges();
         }
 
         public int Update(Post post)
         {
-            throw new NotImplementedException();
+            applicationContext.Entry(post).State = EntityState.Modified;
+            return applicationContext.SaveChanges();
+        }
+
+        public PostRepository(ApplicationContext applicationContext)
+        {
+            this.applicationContext = applicationContext;
         }
     }
 }

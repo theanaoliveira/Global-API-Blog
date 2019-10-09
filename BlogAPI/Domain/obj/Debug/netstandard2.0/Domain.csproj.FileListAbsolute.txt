@@ -6,3 +6,11 @@ C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog\BlogAPI\Domain\obj\Deb
 C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\Larissa Heloisa\Documents\WEBAPI\Global-API-Blog2\Global-API-Blog\BlogAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb

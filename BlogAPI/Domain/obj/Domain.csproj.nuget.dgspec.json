@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog2\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog2\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog2\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog2\\Global-API-Blog\\BlogAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Larissa Heloisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog\\BlogAPI\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Larissa Heloisa\\Documents\\WEBAPI\\Global-API-Blog2\\Global-API-Blog\\BlogAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa Heloisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
